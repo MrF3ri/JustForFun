@@ -1,3 +1,3 @@
 # JustForFun
-Hi just for fun v0.0.001
+Hi just for fun v0.0.002
 
